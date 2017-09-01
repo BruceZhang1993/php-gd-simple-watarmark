@@ -1,3 +1,4 @@
+<?php
 	/**
 	 * add a watermark to a picture
 	 * @param  string  $dis_file       	[picture path]
